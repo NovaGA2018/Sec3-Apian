@@ -77,6 +77,12 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Content/StarterContent/*
+<<<<<<< HEAD
 Content/AnimStarterPack/*
 Content/ParagonShinbi/*
 Content/InfinityBladeGrasslands/*
+=======
+Content/ParagonShinbi/*
+Content/InfinityBladeGrassLands/*
+Content/SoulCity/*
+>>>>>>> 2545d1a9b4897bdaaf13953843f290859fa2f349
